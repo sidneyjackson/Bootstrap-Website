@@ -1,0 +1,152 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+#logo1 {
+	height: 300px;
+	width: auto;
+}
+#logo2 {
+	height: 300px;
+	width: auto;
+}
+#logo3 {
+	height: 300px;
+	width: auto;
+}
+#logo4 {
+	height: 300px;
+	width: auto;
+}
+#profile {
+	width: 400px;
+	height: auto;
+}
+body {
+	font-family: 'Lilita One';
+	font-size: 22px;
+	text-align: center;
+}
+#item1 {
+	background-color: #908171;
+	border-color: #564d46;
+	border-width: 10px;
+	border-style: solid;
+	text-align: center;
+	color: ghostwhite;
+}
+#item3 {
+	background-color: #908171;
+	border-color: #564d46;
+	border-width: 10px;
+	border-style: solid;
+	text-align: center;
+	color: ghostwhite;
+}
+#item5 {
+	background-color: #908171;
+	border-color: #564d46;
+	border-width: 10px;
+	border-style: solid;
+	text-align: center;
+	color: ghostwhite;
+}
+#item7 {
+	background-color: #908171;
+	border-color: #564d46;
+	border-width: 10px;
+	border-style: solid;
+	text-align: center;
+	color: ghostwhite;
+}
+#item2 {
+	background-color: #716658;
+	border-color: #564d46;
+	border-width: 10px;
+	border-style: solid;
+	text-align: center;
+	color: ghostwhite;
+}
+#item4 {
+	background-color: #716658;
+	border-color: #564d46;
+	border-width: 10px;
+	border-style: solid;
+	text-align: center;
+	color: ghostwhite;
+}
+#item6 {
+	background-color: #716658;
+	border-color: #564d46;
+	border-width: 10px;
+	border-style: solid;
+	text-align: center;
+	color: ghostwhite;
+}
+#item8 {
+	background-color: #716658;
+	border-color: #564d46;
+	border-width: 10px;
+	border-style: solid;
+	text-align: center;
+	color: ghostwhite;
+}
+#hero {
+max-width: 100%;
+background-color: #e69051;
+}
+
+.navbar {
+	background-color: #564d46;
+}
+
+#first {
+	background-color: #e69051;
+		border-color: #e69051;
+	border-width: 10px;
+	border-style: solid;
+}
+#about {
+	background-color: #bfb3a6;
+		border-color: #e69051;
+	border-width: 10px;
+	border-style: solid;
+}
+#menu {
+	background-color: #bfb3a6;
+		border-color: #e69051;
+	border-width: 10px;
+	border-style: solid;
+}
+#partners {
+	background-color: #d1c8c0;
+		border-color: #e69051;
+	border-width: 10px;
+	border-style: solid;
+}
+#contact {
+	background-color: #bfb3a6;
+		border-color: #e69051;
+	border-width: 10px;
+	border-style: solid;
+}
+#images {
+	background-color: #d1c8c0;
+		border-color: #e69051;
+	border-width: 10px;
+	border-style: solid;
+}
+.carousel-inner {
+    width: 100%;
+    height:30%;
+}
+a {
+  color: #564d46;
+}
+footer, .py-5 {
+	background-color: #564d46;
+}
+
+
+
+
+
+
+
